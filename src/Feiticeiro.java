@@ -8,6 +8,11 @@ public class Feiticeiro {
         return nome;
     }
 
+    // Setter - Settar o valor da variável
+    public void setNome(String nome){
+        this.nome = nome; //o this.nome está se referindo ao private String nome da variavel
+    }
+
 
 
 
