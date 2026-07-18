@@ -3,10 +3,13 @@ public class Main {
 
        //OBJ 1
         Gojo Satoru = new Gojo();
-        Satoru.nome = "Satoru Gojo";
-        Satoru.idade = 35;
-        Satoru.cla = "Gojo";
-        System.out.println("Nome: " +Satoru.nome);
+        Satoru.setNome("Satoru Gojo");
+        Satoru.getNome();
+        Satoru.setIdade(35);
+        Satoru.getIdade();
+        Satoru.setCla("Gojo");
+        Satoru.getCla();
+        System.out.println("Nome: " +Satoru.getNome());
         Satoru.atributoGojo();
         Satoru.ataqueBase();
 
@@ -14,9 +17,13 @@ public class Main {
 
         //OBJ 2
         Zenin Megumi = new Zenin();
-        Megumi.nome = "Megumi Fushiguro";
-        Megumi.idade = 23;
-        Megumi.cla = "Zenin";
+        Megumi.setNome("Megumi Fushiguro");
+        Megumi.getNome();
+        Megumi.setIdade(23);
+        Megumi.getIdade();
+        Megumi.setCla("Zenin");
+        Megumi.getCla();
+        System.out.println("Nome: " +Megumi.getNome());
         Megumi.ataqueBase();
         Megumi.atributoZenin();
 

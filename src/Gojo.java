@@ -1,6 +1,6 @@
 public class Gojo extends Feiticeiro {
     public void atributoGojo(){
-        if (nome == "Satoru Gojo"){
+        if (getNome() == "Satoru Gojo"){
             System.out.println("Possui o Rikugan e o Mukagen");
         }
         else {

@@ -1,7 +1,7 @@
 public class Zenin extends Feiticeiro {
 
     public void atributoZenin(){
-        if (nome == "Toji Fushiguro") {
+        if (getNome() == "Toji Fushiguro") {
             System.out.println("Possui Restrição Celestial");
         }
         else{

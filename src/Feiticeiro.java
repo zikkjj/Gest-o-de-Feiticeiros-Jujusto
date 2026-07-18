@@ -1,11 +1,17 @@
 public class Feiticeiro {
     private String nome;
-    String cla;
-    int idade;
+    private String cla;
+    private int idade;
 
     // Getter - Criar Getter para mostrar ao usuário
     public String getNome(){
         return nome;
+    }
+    public String getCla(){
+        return cla;
+    }
+    public int getIdade(){
+        return idade;
     }
 
     // Setter - Settar o valor da variável
@@ -13,7 +19,13 @@ public class Feiticeiro {
         this.nome = nome; //o this.nome está se referindo ao private String nome da variavel
     }
 
+    public void setCla(String cla){
+        this.cla = cla;
+    }
 
+    public void setIdade(int idade){
+        this.idade = idade;
+    }
 
 
     public void ataqueBase(){
