@@ -4,11 +4,11 @@ Um sistema organizado para gerenciar e catalogar Feiticeiros Jujutsu, suas linha
 
 ---
 
-## <img src="https://raw.githubusercontent.com/unknwon/simpleicons/master/icons/about.me.svg" width="22" height="22" align="center" /> Sobre o Projeto
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/aboutdotme.svg" width="22" height="22" align="center" /> Sobre o Projeto
 
 Esta é uma aplicação backend desenvolvida em Java com o objetivo de praticar conceitos fundamentais de Programação Orientada a Objetos (POO), tais como **Herança, Polimorfismo e Encapsulamento**. O sistema permite registrar feiticeiros Jujutsu, atribuindo dinamicamente status e técnicas amaldiçoadas específicas com base no Clã escolhido, além de suportar personagens específicos que quebram as regras tradicionais do mundo da feitiçaria.
 
-## <img src="https://raw.githubusercontent.com/unknwon/simpleicons/master/icons/probot.svg" width="22" height="22" align="center" /> Arquitetura do Sistema e Regras de Negócio
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/probot.svg" width="22" height="22" align="center" /> Arquitetura do Sistema e Regras de Negócio
 
 O sistema é estruturado em torno de três pilares principais:
 
@@ -30,14 +30,14 @@ O sistema manipula perfis fora da curva que ignoram as estruturas normais de um 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/unknwon/simpleicons/master/icons/procore.svg" width="22" height="22" align="center" /> Tecnologias Utilizadas
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dependencycheck.svg" width="22" height="22" align="center" /> Tecnologias Utilizadas
 
 *   **Java** (Versão 17 ou superior recomendada)
 *   **Arquitetura Orientada a Objetos** (Modelagem de domínio)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/unknwon/simpleicons/master/icons/git.svg" width="22" height="22" align="center" /> Como Executar o Projeto
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" width="22" height="22" align="center" /> Como Executar o Projeto
 
 ### Pré-requisitos
 Certifique-se de ter o **JDK (Java Development Kit) 17+** e o **Git** instalados em sua máquina.
