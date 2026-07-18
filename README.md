@@ -38,12 +38,4 @@ The system handles outlier profiles that bypass normal clan structures through c
 
 ---
 
-## 💻 How to Run the Project
 
-### Prerequisites
-Make sure you have the **JDK (Java Development Kit) 17+** and **Git** installed on your machine.
-
-### Installation & Execution
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/jujutsu-registry-system.git](https://github.com/YOUR_USERNAME/jujutsu-registry-system.git)
